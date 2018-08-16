@@ -4,14 +4,13 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6456C9BF-FC11-44FB-8FC0-5E4E67ECA928}</ProjectGuid>
+    <ProjectGuid>{4A5231EB-44D6-47E8-B22E-ECB63A0B1E1F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>MiProyecto</RootNamespace>
-    <AssemblyName>MiProyecto</AssemblyName>
+    <RootNamespace>Ejercicos_Practicos1</RootNamespace>
+    <AssemblyName>Ejercicos Practicos1</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
-    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
