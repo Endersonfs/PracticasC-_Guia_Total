@@ -8,7 +8,7 @@ namespace Escuela
 {
     class Program
     {
-        //programa de la escuela con funciones
+        //programa de la escuela con funciones y parametros con arreglos jagged
         static void Main(string[] args)
         {
             //variables necesarias
