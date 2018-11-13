@@ -1,0 +1,4 @@
+Estas son las practicas que trabajamos con algunas coleciones de c#, que son estructura de datos
+trabajamos con ArrayList, Stack o Pila,  Queue o cola y los hashtable
+
+Autor: Enderson
